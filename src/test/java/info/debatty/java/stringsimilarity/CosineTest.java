@@ -21,8 +21,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-
-package info.debatty.java.stringsimilarity;
+ackage info.debatty.java.stringsimilarity;
 
 import java.io.BufferedReader;
 import java.io.IOException;
